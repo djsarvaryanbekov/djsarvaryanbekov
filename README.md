@@ -1,15 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarvarbek Jiyanbekov
 
-**djsarvaryanbekov/djsarvaryanbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Unity Developer @ DP Games** | Software Engineering at School 21
 
-Here are some ideas to get you started:
+I build commercial mobile games and rapid prototypes. I focus on writing **clean, scalable code** that performs well on all devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 🚀 Professional Experience
+
+* **Unity Developer (2+ Year):** Core developer for commercial mobile title *Yashil Makon* (available on App Store & Google Play).
+* **Game Jam Enthusiast:** Frequent participant in 72-hour development sprints; recently placed **4th in the Space Gamejam**.
+* **Software Engineering Student:** Solving complex algorithmic challenges at School 21 (42 Network).
+
+---
+
+### 🛠️ Technical Toolkit
+
+* **Core:** C#, Unity, OOP, SOLID.
+* **Optimization:** Unity Addressables (Asset Management), Mobile UI/UX.
+* **Systems:** Version Control (Git), C/C++, NavMesh AI, DoTween.
+
+---
+
+### 📫 Let's Connect
