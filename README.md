@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Sarvarbek Jiyanbekov
+# 👋 I'm Sarvarbek Jiyanbekov
 
-### **Unity Developer @ DP Games** | Software Engineering at School 21
+**Unity Developer @ DP Games** | **Software Engineering Student @ School 21**
 
-I build commercial mobile games and rapid prototypes. I focus on writing **clean, scalable code** that performs well on all devices.
+I build mobile games and spend my weekends in game jams. I write clean, modular code so that projects don't break as they get bigger.
+
+---
+
+### 🚀 The Essentials
+
+* **Professional:** 1+ year at DP Games; core contributor to **Yashil Makon** (App Store & Google Play).
+* **Competitive:** Game jam veteran; recently placed **4th in the Space Gamejam**.
+* **Academic:** Mastering low-level systems (C/C++) and algorithms at School 21.
 
 ---
 
-### 🚀 Professional Experience
+### 🏗️ Tech & Architecture
 
-* **Unity Developer (2+ Year):** Core developer for commercial mobile title *Yashil Makon* (available on App Store & Google Play).
-* **Game Jam Enthusiast:** Frequent participant in 72-hour development sprints; recently placed **4th in the Space Gamejam**.
-* **Software Engineering Student:** Solving complex algorithmic challenges at School 21 (42 Network).
+* **Languages:** C#, C, C++
+* **Frameworks:** Unity, DOTween, Addressables, NavMesh AI.
+* **Engineering:** OOP & SOLID Architecture, Dependency Injection (VContainer/Zenject).
 
 ---
+
 ### 🛠️ Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛠️ Technical Toolkit
-
-* **Core:** C#, Unity, OOP, SOLID.
-* **Optimization:** Unity Addressables (Asset Management), Mobile UI/UX.
-* **Systems:** Version Control (Git), C/C++, NavMesh AI, DoTween.
-
----
 
 ### 📫 Let's Connect
